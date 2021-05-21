@@ -3,8 +3,13 @@ efi folder for msi-gl65-leopard-9scxr
 
 successfully installed mac os bigsur 11.1
 
+make your own smbios
+
+
 every thing works fine.
 
 *****note
-1.nvidia gtx 1650 disbaled   -   mac os bigsur does not supports nvidia 
+
+
+        1.nvidia gtx 1650 disbaled   -   mac os bigsur does not supports nvidia 
 
