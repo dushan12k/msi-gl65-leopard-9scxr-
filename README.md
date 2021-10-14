@@ -4,7 +4,7 @@ efi folder for msi-gl65-leopard-9scxr
 successfully installed mac os bigsur 11.1
 
 **make your own smbios**
-
+i'm trying to fix hdmi and uplaod soon.
 
 every thing works fine.
 
