@@ -1,4 +1,4 @@
-# msi-gl65-leopard-9scxr-
+# msi-gl65-leopard-9scxr-old
 EFI folder for msi-gl65-leopard-9scxr
 
 successfully installed 
