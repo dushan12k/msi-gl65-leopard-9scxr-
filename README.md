@@ -1,8 +1,8 @@
-# msi-gl65-leopard-9scxr-NEW
+# msi-gl65-leopard-9scxr-OLD
 
 Latest Opencore 0.6.3 🤗🤗
 
-Mac OS Bigsur 11.1 & 11,2 only working perfecly 😜
+Mac OS Bigsur 11.1 & 11.2 only working perfecly 😜
 
 
     HDMI not working
