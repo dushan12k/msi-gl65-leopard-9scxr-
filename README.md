@@ -2,7 +2,10 @@
 EFI folder for msi-gl65-leopard-9scxr
 
 successfully installed 
+
 Catalina 
+
+
 Bigsur 11.1 , 11.2
 
 
