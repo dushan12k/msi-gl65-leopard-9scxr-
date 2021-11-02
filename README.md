@@ -1,9 +1,13 @@
 # msi-gl65-leopard-9scxr-
-efi folder for msi-gl65-leopard-9scxr
+EFI folder for msi-gl65-leopard-9scxr
 
-successfully installed mac os bigsur 11.1
+successfully installed 
+Catalina 
+Bigsur 11.1 , 11.2
+
 
 **make your own smbios**
+
 i'm trying to fix hdmi and uplaod soon.
 
 every thing works fine.
