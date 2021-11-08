@@ -8,7 +8,7 @@ Mac OS Bigsur 11.1 & 11.2 only working perfecly 😜
     HDMI not working
     Intel Bluetooth & wifi  Working
     All other ports are working
-    Sleep fuction also works fine
+    Sleep function also works fine
     Can control brightness and volume through as default keybord bindings
     
 MAKE YOUR OWN SMBIOS  😓😒 
